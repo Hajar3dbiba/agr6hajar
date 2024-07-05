@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.logo img{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+   
+}
+nav{
+    display: flex;
+    background-color: rgb(237, 155, 24);
+    justify-content: space-between;
+    align-items: center;
+    
+}
+nav ul{
+    display: flex;
+    list-style:none;
+    width: 50%;;
+    justify-content: space-between;
+    text-align:center
+
+}
+nav ul a{
+    text-decoration: none;
+    color: rgb(242, 231, 213);
+}
+
+
+
+
+
+.container{
+    width: 57%;
+    margin: 10px auto;
+    height:100vh;
+    border-top-right-radius: 150px;
+    background-color: #4cb00f;
+
+}
