@@ -1,19 +1,21 @@
 body{
     margin: 0;
     padding: 0;
-    
 }
 .logo img{
     width: 20px;
-    height: 20px;
+    height:20px;
     margin: 10px;
-   
+}
+body{
+    background-color:beige
 }
 nav{
     display: flex;
     background-color: rgb(237, 155, 24);
     justify-content: space-between;
     align-items: center;
+   
     
 }
 nav ul{
@@ -22,22 +24,34 @@ nav ul{
     width: 50%;;
     justify-content: space-between;
     text-align:center
-
 }
 nav ul a{
     text-decoration: none;
     color: rgb(242, 231, 213);
 }
+video{
+    width: 94% ;
+    margin-left: 3%;
+    height: 500px;
+    display: flex;
+}
 
 
-
+div img {
+    height: 200px;
+    margin: 5px;
+    margin-top:40px;
+ 
+}
 
 
 .container{
-    width: 57%;
-    margin: 10px auto;
-    height:100vh;
-    border-top-right-radius: 150px;
+    width: 50%;
+    margin: 200px auto;
+    height: 300px;vh;
+    border-top-right-radius: 200px;
     background-color: #4cb00f;
+ p
 
 }
+ 
