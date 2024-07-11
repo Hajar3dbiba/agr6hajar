@@ -1,20 +1,24 @@
 body{
     margin: 0;
     padding: 0;
+   
 }
 .logo img{
     width: 20px;
     height:20px;
     margin: 10px;
+   
 }
 body{
-    background-color:beige
+    background-color:#d0f3a7
+    
 }
 nav{
     display: flex;
     background-color: rgb(237, 155, 24);
     justify-content: space-between;
     align-items: center;
+   
    
     
 }
@@ -24,6 +28,7 @@ nav ul{
     width: 50%;;
     justify-content: space-between;
     text-align:center
+   
 }
 nav ul a{
     text-decoration: none;
@@ -34,24 +39,242 @@ video{
     margin-left: 3%;
     height: 500px;
     display: flex;
+
 }
+#HERBES1{
+    margin-left: 20px;
+    
+   
+}
+
+#HERBES2{
+    margin-left: 290px;
+  
+    
+}
+
 
 
 div img {
     height: 200px;
     margin: 5px;
     margin-top:40px;
+    
  
 }
 
 
 .container{
-    width: 50%;
-    margin: 200px auto;
-    height: 300px;vh;
-    border-top-right-radius: 200px;
+    width: 82%;
+    margin: 96px auto;
+    height: 300px;
+    /* border-top-right-radius: 0px; */
+    border-top-left-radius:90px;
     background-color: #4cb00f;
- p
-
+    display: flex;
+    gap: 100px;
+   
 }
- 
+
+#img1{
+    /* margin-left: 100px; */
+    margin-top: -1px;
+    margin-left: -35px;
+    width: 349px;
+    height: 300px;
+    object-fit: contain;
+   
+}
+
+#p1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+   
+   
+ }
+ #p1 p{
+    margin-right: 60px
+    
+ }
+ #P1 h1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-weight:normal;flex-wrap: initial;
+  
+   
+
+ }
+ #p2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+   
+   
+ }
+ #p2 p{
+    margin-right: 60px
+  
+    
+ }
+ #P2 h2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-weight:normal;flex-wrap: initial;
+   
+ }
+ #img2{
+    /* margin-left: 100px; */
+    margin-top: -0px;
+    margin-right: 10px;
+    width: 349px;
+    height: 300px;
+    object-fit: contain;
+   
+}
+    
+#p3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+   
+   
+ }
+ #p3 p{
+    margin-right: 60px
+    
+    
+ }
+ #P3 h3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-weight:normal;flex-wrap: initial;
+   
+ }
+ #img3{
+    /* margin-left: 100px; */
+    margin-top: -0px;
+    margin-right: 10px;
+    width: 349px;
+    height: 300px;
+    object-fit: contain;
+   
+}
+
+    #p4{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+       
+       
+     }
+     #p4 p{
+        margin-right: 60px
+        
+     }
+     #P4 h4{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        font-weight:normal;flex-wrap: initial;
+      
+     }
+     #img4{
+        /* margin-left: 100px; */
+        margin-top: -0px;
+        margin-right: 10px;
+        width: 349px;
+        height: 300px;
+        object-fit: contain;
+       
+    }
+        #img6{
+            width: 20px;
+            height: 20px; 
+         
+           }
+       #img2 , #img3 , #img4 {
+           border-bottom-right-radius: 125px;
+           border-top-left-radius: 125px;
+           margin-left: -40px;
+         
+       }
+
+        #img5{
+            width: 80%;
+            height: 700px;
+            margin-left:120px;
+            
+        }
+        .container2{
+            width: 100%;
+            margin: 1% auto ;
+            height: 400px;
+            background-color: #080808;
+            display: flex;
+            gap: 100px;
+            display: flex;
+            flex-direction: column;
+           
+        }
+            
+            #h5{
+                color: orangered;
+                font-size:38px;
+                text-align: center;
+                align-items: center;
+                justify-content: center;
+             
+             }
+             #img6{
+                margin-top:-70px ;
+                margin-left:200px;
+                height:30px;
+                width:30px;
+               
+
+             }
+             #img7{
+                margin-top:-70px ;
+                margin-left:200px;
+                height:30px;
+                width:30px;
+               
+             }
+             #p5{
+                color: aliceblue;
+                margin-left:300px ;
+                margin-top:-196px
+               
+             }
+
+             #p6{
+                color: aliceblue;
+                margin-left: 300px;
+                margin-top:-70px
+                
+             }
+             #p7{
+                margin-top:-22px ;
+                color: blanchedalmond;
+                margin-left:50px ;
+                
+             }
+         
+         
+         
+           
+             
+            
+           
